@@ -1,7 +1,7 @@
 # TrainingDevOps
 
-##Introduction
+## Introduction
 
-##Purpose
+## Purpose
 
-##How to contribute
+## How to contribute
