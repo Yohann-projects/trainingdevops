@@ -1,8 +1,9 @@
 # TrainingDevOps
 
-##Introduction
+## Introduction
 
-##Purpose
+## Purpose
+
 
 ## Deployment
 
