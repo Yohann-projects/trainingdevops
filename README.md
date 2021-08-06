@@ -1,3 +1,7 @@
 # TrainingDevOps
 
-TEST
+##Introduction
+
+##Purpose
+
+##How to contribute
